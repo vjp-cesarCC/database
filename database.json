@@ -1,8 +1,8 @@
 [
     {
         "nombre":"Margarita",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"Margarita.jpg",
+        "img_uri":"img/Margarita.jpg",
         "metodo":"Agitado",
         "ingredientes":[
             {

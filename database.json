@@ -1,0 +1,374 @@
+[
+    {
+        "nombre":"Margarita",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Tequila",
+                "cantidad":"1 1/2 oz"
+            },
+            {
+                "nombre":"Triple Seco",
+                "cantidad":"3/4 oz"
+            },
+           {
+                "nombre":"Zumo de Lima",
+                "cantidad":"3/4  oz"
+            },
+            {
+                "nombre":"Sirope de Agave",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Salinos",
+                "cantidad":"2 drop"
+            }
+        ]
+    },
+    {
+        "nombre":"Porn Star Martini",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Vodka Vainilla",
+                "cantidad":"1 oz"
+            },
+            {
+                "nombre":"Passoa",
+                "cantidad":"3/4 oz"
+            },
+           {
+                "nombre":"Zumo de Lima",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Puré de fruta de la Pasion",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Zumode fruta de la Pasion",
+                "cantidad":"1 oz"
+            },
+            {
+                "nombre":"Zumo de Manzana",
+                "cantidad":"1 oz"
+            },
+            {
+                "nombre":"Cava",
+                "cantidad":"1 cup/shot"
+            }
+        ]
+    },
+    {
+        "nombre":"Mai Tai",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Ron Añejo",
+                "cantidad":"1 oz"
+            },
+            {
+                "nombre":"Licor de Naranja",
+                "cantidad":"1/2 oz"
+            },
+           {
+                "nombre":"Zumo de Lima",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Orgeat",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Sirope Simple",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Cordial de Hiervabuena",
+                "cantidad":"1 1/2 oz"
+            }
+        ]
+    },
+    {
+        "nombre":"Old Fashion",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Removido",
+        "ingredientes":[
+            {
+                "nombre":"Bourbon",
+                "cantidad":"2 oz"
+            },
+            {
+                "nombre":"Sirope Mascabado",
+                "cantidad":"2 cucharadas"
+            },
+           {
+                "nombre":"Angostura",
+                "cantidad":"2 dash"
+            },
+            {
+                "nombre":"Salinos",
+                "cantidad":"2 drop"
+            }
+        ]
+    },
+    {
+        "nombre":"Rum Fashion",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Removido",
+        "ingredientes":[
+            {
+                "nombre":"Ron Añejo",
+                "cantidad":"2 oz"
+            },
+            {
+                "nombre":"Sirope Mascabado",
+                "cantidad":"2 cucharadas"
+            },
+           {
+                "nombre":"Bitter Naranja",
+                "cantidad":"2 dash"
+            },
+            {
+                "nombre":"Bitter Cacao",
+                "cantidad":"1 dash"
+            }
+        ]
+    },
+    {
+        "nombre":"The Killer",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Amaretto",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Ginebra",
+                "cantidad":"3/4 oz"
+            },
+           {
+                "nombre":"Zumo de Limón",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Puré de fruta de la Pasión",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Zumo de fruta de la Pasión",
+                "cantidad":"1 oz"
+            }
+        ]
+    },
+    {
+        "nombre":"Aperol Spritz",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Directo",
+        "ingredientes":[
+            {
+                "nombre":"Aperol",
+                "cantidad":"2 oz"
+            },
+            {
+                "nombre":"Soda de Pomelo",
+                "cantidad":"100 ml"
+            },
+           {
+                "nombre":"Cava",
+                "cantidad":"top"
+            }
+        ]
+    },
+    {
+        "nombre":"Mula de Moscú",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado & Top",
+        "ingredientes":[
+            {
+                "nombre":"Vodka",
+                "cantidad":"1 1/2 oz"
+            },
+            {
+                "nombre":"Sirope de Jengibre",
+                "cantidad":"1/2 oz"
+            },
+           {
+                "nombre":"Zumo de Lima",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Ginger Beer",
+                "cantidad":"top 100ml"
+            }
+        ]
+    },
+    {
+        "nombre":"Zombie",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Ron Añejo",
+                "cantidad":"1 oz"
+            },
+            {
+                "nombre":"Passoa",
+                "cantidad":"3/4 oz"
+            },
+           {
+                "nombre":"Zumo de Lima",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Zumo de Naranja",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Zumo de Piña",
+                "cantidad":"3 oz"
+            },
+            {
+                "nombre":"Falernum",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Sirope de Canela",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Ron alta graduación",
+                "cantidad":"Antorcha"
+            },
+            {
+                "nombre":"Angostura",
+                "cantidad":"2 dash"
+            }
+        ]
+    },
+    {
+        "nombre":"Piña Colada",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Ron Blanco",
+                "cantidad":"1 oz"
+            },
+            {
+                "nombre":"Ron/Licor de Coco",
+                "cantidad":"1 oz"
+            },
+           {
+                "nombre":"Prebach Coco",
+                "cantidad":"2 oz"
+            },
+            {
+                "nombre":"Zumo de Piña",
+                "cantidad":"2 1/2 oz"
+            }
+        ]
+    },
+    {
+        "nombre":"Popeye Sour",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Doble Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Espinacas",
+                "cantidad":"8 hojas"
+            },
+            {
+                "nombre":"Cachaça",
+                "cantidad":"1 1/2 oz"
+            },
+           {
+                "nombre":"Mezcal",
+                "cantidad":"10 ml"
+            },
+            {
+                "nombre":"Zumo de Limón",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Sirope de Jengibre",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Sirope Simple",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Clara de Huevo",
+                "cantidad":"3/4 oz"
+            }
+        ]
+    },
+    {
+        "nombre":"Whiskey Sour",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"Doble Agitado",
+        "ingredientes":[
+            {
+                "nombre":"Whiskey",
+                "cantidad":"1 1/2 oz"
+            },
+            {
+                "nombre":"Zumo de Limón",
+                "cantidad":"3/4 oz"
+            },
+           {
+                "nombre":"Sirope de Palomitas",
+                "cantidad":"1/2 oz"
+            },
+            {
+                "nombre":"Sirope Simple",
+                "cantidad":"3/4 oz"
+            },
+            {
+                "nombre":"Clara de Huevo",
+                "cantidad":"3/4 oz"
+            }
+        ]
+    },
+    {
+        "nombre":"",
+        "imagen":"",
+        "img_uri":"",
+        "metodo":"",
+        "ingredientes":[
+            {
+                "nombre":"",
+                "cantidad":" oz"
+            },
+            {
+                "nombre":"",
+                "cantidad":" oz"
+            },
+           {
+                "nombre":"",
+                "cantidad":" oz"
+            },
+            {
+                "nombre":"",
+                "cantidad":" oz"
+            }
+        ]
+    }
+]

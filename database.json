@@ -29,8 +29,8 @@
     },
     {
         "nombre":"Porn Star Martini",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"PStar.jpg",
+        "img_uri":"img/PStar.jpg",
         "metodo":"Agitado",
         "ingredientes":[
             {
@@ -65,8 +65,8 @@
     },
     {
         "nombre":"Mai Tai",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"Mai_Tai.jpg",
+        "img_uri":"img/Mai_Tai.jpg",
         "metodo":"Agitado",
         "ingredientes":[
             {
@@ -96,9 +96,9 @@
         ]
     },
     {
-        "nombre":"Old Fashion",
-        "imagen":"",
-        "img_uri":"",
+        "nombre":"Old Fashioned",
+        "imagen":"old_fashioned.jpg",
+        "img_uri":"img/old_fashioned.jpg",
         "metodo":"Removido",
         "ingredientes":[
             {
@@ -120,9 +120,9 @@
         ]
     },
     {
-        "nombre":"Rum Fashion",
-        "imagen":"",
-        "img_uri":"",
+        "nombre":"Rum Fashioned",
+        "imagen":"rum_fashioned.jpg",
+        "img_uri":"img/rum_fashioned.jpg",
         "metodo":"Removido",
         "ingredientes":[
             {
@@ -145,8 +145,8 @@
     },
     {
         "nombre":"The Killer",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"the_killer.jpg",
+        "img_uri":"img/the_killer.jpg",
         "metodo":"Agitado",
         "ingredientes":[
             {
@@ -173,8 +173,8 @@
     },
     {
         "nombre":"Aperol Spritz",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"aperol_spritz.jpg",
+        "img_uri":"img/aperol_spritz.jpg",
         "metodo":"Directo",
         "ingredientes":[
             {
@@ -193,8 +193,8 @@
     },
     {
         "nombre":"Mula de Moscú",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"moscow_mule.jpg",
+        "img_uri":"img/moscow_mule.jpg",
         "metodo":"Agitado & Top",
         "ingredientes":[
             {
@@ -217,8 +217,8 @@
     },
     {
         "nombre":"Zombie",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"zombie.jpg",
+        "img_uri":"img/zombie.jpg",
         "metodo":"Agitado",
         "ingredientes":[
             {
@@ -261,8 +261,8 @@
     },
     {
         "nombre":"Piña Colada",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"pina_colada.jpg",
+        "img_uri":"img/pina_colada.jpg",
         "metodo":"Agitado",
         "ingredientes":[
             {
@@ -285,8 +285,8 @@
     },
     {
         "nombre":"Popeye Sour",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"popeye.jpg",
+        "img_uri":"img/popeye.jpg",
         "metodo":"Doble Agitado",
         "ingredientes":[
             {
@@ -321,8 +321,8 @@
     },
     {
         "nombre":"Whiskey Sour",
-        "imagen":"",
-        "img_uri":"",
+        "imagen":"whiskey_sour.jpg",
+        "img_uri":"img/whiskey_sour.jpg",
         "metodo":"Doble Agitado",
         "ingredientes":[
             {
@@ -344,30 +344,6 @@
             {
                 "nombre":"Clara de Huevo",
                 "cantidad":"3/4 oz"
-            }
-        ]
-    },
-    {
-        "nombre":"",
-        "imagen":"",
-        "img_uri":"",
-        "metodo":"",
-        "ingredientes":[
-            {
-                "nombre":"",
-                "cantidad":" oz"
-            },
-            {
-                "nombre":"",
-                "cantidad":" oz"
-            },
-           {
-                "nombre":"",
-                "cantidad":" oz"
-            },
-            {
-                "nombre":"",
-                "cantidad":" oz"
             }
         ]
     }
